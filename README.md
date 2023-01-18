@@ -9,4 +9,4 @@ See more in <a href="https://www.youtube.com/watch?v=igAmb5755zg">installation v
 ____
 # What does Modified ProTanki do?
 + Replaces with supply icons that were in 2016
-+ Prelauncher which looks "identical" to Tanki Online
++ Prelauncher which looks "identical" to Tanki Online (with snow effect, apparently)
