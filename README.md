@@ -6,6 +6,7 @@ ____
 # Installation
 See more in <a href="https://www.youtube.com/watch?v=igAmb5755zg">installation videos.</a>
 ____
-# What does Modified ProTanki look like?
-+ Supply icons that were in 2016
-+ Prelauncher which looks identical to Tanki Online
+# What does it change?
+<h3>2016</h3>
+
++ Replaces supply icons to the newer version.
