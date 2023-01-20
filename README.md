@@ -7,7 +7,7 @@ ____
 See more in <a href="https://www.youtube.com/watch?v=igAmb5755zg">installation videos.</a>
 ____
 # What does it change?
-+ Prelauncher which looks identical to Tanki Online, altrough doesn't have a footer
++ Prelauncher which looks identical to Tanki Online, altrough doesn't have a footer.
 
 <h3>2016</h3>
 
