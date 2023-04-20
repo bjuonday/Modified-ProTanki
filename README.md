@@ -1,7 +1,7 @@
 # Modified ProTanki
 Especially gotten from this repository and remodified it: https://github.com/Kleins0/protanki-mod
 ![ProTanki](https://user-images.githubusercontent.com/113231787/213869911-27e1dc2e-acef-4b0d-9afc-dc66f25af21b.png)
-### THIS MODIFIED VERSION OF PROTANKI IS UNSTABLE. PARTIALLY USE AT YOUR OWN RISK.
+### THIS MODIFIED VERSION OF PROTANKI IS UNSTABLE. PARTIALLY USE AT YOUR OWN RISK. (and for decorative purposes)
 ____
 # Installation
 Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how to install?</b>
