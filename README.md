@@ -1,6 +1,6 @@
 # Modified ProTanki
 Especially gotten from this repository and remodified it: https://github.com/Kleins0/protanki-mod
-![ProTanki](https://user-images.githubusercontent.com/113231787/213869911-27e1dc2e-acef-4b0d-9afc-dc66f25af21b.png)
+![ProTanki](https://user-images.githubusercontent.com/113231787/234942161-5f97e12c-0f25-41ee-8926-9662710439d5.png)
 ### THIS MODIFIED VERSION OF PROTANKI IS UNSTABLE. PARTIALLY USE AT YOUR OWN RISK.<br>
 (and for decorative purposes)
 ____
@@ -13,7 +13,7 @@ Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how 
 5. Profit and play
 ____
 # What does it change?
-+ Prelauncher which looks identical to Tanki Online, altrough doesn't have a footer.
++ Customized prelauncher
 
 <h3>2016</h3>
 
