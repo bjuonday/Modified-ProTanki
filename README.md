@@ -13,7 +13,7 @@ Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how 
 5. Profit and play
 ____
 # What does it change?
-+ Prelauncher which looks identical to Tanki Online, altrough doesn't have a footer.
++ Customized prelauncher
 
 <h3>2016</h3>
 
