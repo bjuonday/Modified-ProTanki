@@ -11,7 +11,7 @@
 	
 	<initialWindow> 
 		<title>ProTanki</title> 
-		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/lerniu/Modified-ProTanki/main/Prelauncher.swf</content> 
+		<content>https://raw.githubusercontent.com/lerniu/Modified-ProTanki/main/StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/lerniu/Modified-ProTanki/main/Prelauncher.swf</content> 
 		<visible>true</visible>
 		<renderMode>direct</renderMode>
 		<depthAndStencil>true</depthAndStencil>
