@@ -4,8 +4,7 @@ Especially gotten from this repository and remodified it: https://github.com/Kle
 ____
 # Installation
 Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how to install?</b>
-- If you haven't installed ProTanki, [then go try it from link.](https://drive.google.com/file/d/1ML6fJQABbizysBImTa1FMj1lsj649e3S/view)<br>
-(IF SOMEONE, ESPECIALLY NOT BELONG TO PROTANKI REPORTS THIS INSTALLER FOR GOD'S SAKE, WE WILL SEND THEM DEATH THREATS RAPIDLY.)
+- If you haven't installed ProTanki, [then go try it from link.](https://drive.google.com/file/d/1ML6fJQABbizysBImTa1FMj1lsj649e3S/view)
 - Choose one (just only one like a bite)
 - Download `application.xml`
 - Press WIN + R, type `C:\Program Files (x86)\ProTanki Online\META-INF\AIR` (to make sure if you're lazy)
