@@ -1,10 +1,10 @@
 # Modified ProTanki
-Especially gotten from this repository and remodified it: https://github.com/Kleins0/protanki-mod
+Especially gotten from this repository and remodified it: https://github.com/Kleins0/protanki-mod (recently got deleted, unused for some reasons)
 ![ProTanki](https://user-images.githubusercontent.com/113231787/234942161-5f97e12c-0f25-41ee-8926-9662710439d5.png)
 ____
 # Installation
 Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how to install?</b>
-- If you haven't installed ProTanki, [then go try it from link.](https://drive.google.com/file/d/1ML6fJQABbizysBImTa1FMj1lsj649e3S/view)
+- If you haven't installed ProTanki, [then go try it from link.](https://playprotanki.com)
 - Choose one (just only one like a bite)
 - Download `application.xml`
 - Press WIN + R, type `C:\Program Files (x86)\ProTanki Online\META-INF\AIR` (to make sure if you're lazy)
