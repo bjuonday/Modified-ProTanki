@@ -1,5 +1,25 @@
-<p align="center"><img src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
-<i>Especially gotten from <a href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i></p><br>
-<b>EDIT AS OF 18 SEPTEMBER 2023:</b> This project is as known <i>discontinued at indefinite amount of time</i>. Now I wouldn't archive this, though; for when I got IP-banned for using third-party service, still doesn't have access even with VPN on my computer; I will probably change my new IP (or resetting a router, then paying for it, I guess that would work in my computer traffic) soon.<br>
-Again, I ain't even knowing when I open due to our laziness, even I don't hire them no more.<br>
-If you want to look at <a href="https://github.com/bjuonday/Modified-ProTanki/blob/main/old.README.md">old README.md</a>, then I kept it for archival purposes. Installation methods are pretty much outdated, you know.
+<img align="right" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
+<i align="right">Especially gotten from <a href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i><br>
+# Requirements
++ Needs [ProTanki](https://playprotanki.com) installed
++ Brain and Knowledge :)
+# Installation
+Anyways, no YouTube anymore as it gets more confusion and unfunnier. <b>But how to install?</b>
+# Windows (below to 7)
+- Choose one (just only one like a bite)
+- Download `application.xml`
+- Press WIN + R, type `C:\Program Files (x86)\ProTanki Online\META-INF\AIR` (to make sure if you're lazy)
+- Replace it with modified one
+- Profit and play
+# Mac OS X
+There are no methods of platforms like Mac OS, it's unsupported.
+# Linux (knowningly as Debian, Fedora, Linux Mint, etc.)
+**"The Most Hardest Method"**: Now formerly you can have as Preloader (without Prelauncher to be lazy) with Adobe AIR on Linux.<br>
+Unfortunately I don't know any further information on how to install it on Linux, as you cannot download assets from Windows directory.
+____
+# What does it change?
++ Customized prelauncher
+
+<h3>2016</h3>
+
++ Replaces supply icons to the newer version.
