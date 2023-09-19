@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?> 
-<application xmlns="http://ns.adobe.com/air/application/28.0"> 
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/28.0">
 	
-	<id>StandaloneLoader</id> 
-	<versionNumber>1.0</versionNumber> 
-	<filename>ProTanki</filename> 
+	<id>StandaloneLoader</id>
+	<versionNumber>1.0</versionNumber>
+	<filename>ProTanki</filename>
 	
-	<name>ProTanki</name> 
-	<description></description> 
-	<copyright></copyright> 
+	<name>ProTanki</name>
+	<description></description>
+	<copyright></copyright>
 	
-	<initialWindow> 
-		<title>Modified ProTanki</title> 
-		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/bjuonday/Modified-ProTanki/main/2016/Prelauncher.swf</content> 
+	<initialWindow>
+		<title>Modified ProTanki</title>
+		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/bjuonday/Modified-ProTanki/main/2016/Prelauncher.swf</content>
 		<visible>true</visible>
 		<renderMode>direct</renderMode>
 		<depthAndStencil>true</depthAndStencil>
