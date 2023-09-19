@@ -10,8 +10,8 @@
 	<copyright></copyright> 
 	
 	<initialWindow> 
-		<title>ProTanki</title> 
-		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/lerniu/Modified-ProTanki/main/Prelauncher.swf</content> 
+		<title>Modified ProTanki</title> 
+		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=https://raw.githubusercontent.com/bjuonday/Modified-ProTanki/main/Prelauncher.swf</content> 
 		<visible>true</visible>
 		<renderMode>direct</renderMode>
 		<depthAndStencil>true</depthAndStencil>
