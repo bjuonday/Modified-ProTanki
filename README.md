@@ -4,9 +4,9 @@
 </p><br><hr>
 <h1>Requirements</h1>
 
-- Needs <a href="https://playprotanki.com">ProTanki</a> installed
 - Brain
 - Be an computer amateur
+- Needs <a href="https://playprotanki.com">ProTanki</a> installed
 
 <h1>Installation</h1>
 
