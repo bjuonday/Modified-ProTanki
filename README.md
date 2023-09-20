@@ -4,7 +4,7 @@
 </p><br><hr>
 <h1>Requirements</h1>
 
-- Brain
+- Brain and arms
 - Be an computer amateur
 - Needs <a href="https://playprotanki.com">ProTanki</a> installed
 
