@@ -4,13 +4,10 @@
 </p><br><hr>
 <h1>Requirements</h1>
 
-- Brain and arms
-- Be an computer amateur
+- Knowledge
 - Needs <a href="https://playprotanki.com">ProTanki</a> installed
 
 <h1>Installation</h1>
-
-Anyways, no YouTube anymore as it gets more confusion. <b>But how to install?</b>
 
 <h2>Windows (below to 7)</h2>
 
@@ -27,7 +24,7 @@ There are no methods of platforms like Mac OS, it's unsupported.
 <h2>Linux (knowningly as Debian, Fedora, Linux Mint, etc.)</h2>
 
 **"The Most Hardest Method"**: Now formerly you can have as Preloader (just for quick access to play ProTanki) with Adobe Flash Player on Linux.
-Unfortunately I don't know any further information on how to install it on Linux, as you cannot download assets from Windows directory.
+Unfortunately I don't know any further information on how to install it nor using Wine on Linux, as you cannot download assets from Windows directory.
 <hr>
 <h1>What does it change?</h1>
 
