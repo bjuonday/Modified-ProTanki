@@ -1,6 +1,6 @@
 <p align="center" width="100%">
     <img width="45%" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
-  <i align="center">Especially gotten from <a href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
+  <i align="center">Especially gotten from <a title="Looks like this bad boy got deleted for some reason!" href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
 </p><br><hr>
 <h1>Requirements</h1>
 
