@@ -1,6 +1,6 @@
 <p align="center" width="100%">
     <img width="45%" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
-  <i align="center">Especially gotten from <a title="Looks like this bad boy got deleted for some reason!" href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
+  <i align="center">Especially gotten from <a title="This repository was deleted." href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
 </p><br><hr>
 <h1>Requirements</h1>
 
@@ -50,3 +50,13 @@ Unfortunately I don't know any further information on how to install it nor usin
 - New loading screen
 - Supply icons
 - Sum of these up...
+<hr>
+<h1>Credits</h1>
+<ul>
+    <li>poppy
+    <ul>for making ProPreloader.swf file</ul>
+    </li>
+    <li>Tanki Online
+    <ul>for resources (supply icons, 'shop' button icon, etc.)</ul>
+    </li>
+</ul>
