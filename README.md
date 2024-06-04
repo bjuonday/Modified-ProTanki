@@ -1,7 +1,12 @@
 <p align="center" width="100%">
     <img width="45%" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
   <i align="center">Especially gotten from <a title="This repository was deleted." href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
-</p><br><hr>
+</p><br>
+
+## This project will be unmaintained in uncertain time.
+Constant library changes can be a big problem for me. Due to them constantly changing script file/folder names in library.swf file (could be preventing to get onto the modified client), this slows my progress of getting it done, especially my skills in knowledge of this kind of programming language (ActionScript).<br>
+**Possibly,** you could download these original ones and straight-up replace with textures and scripts; but with patience, you don't have to, you just do it **your own self.**
+<hr>
 <h1>Requirements</h1>
 
 - Knowledge
