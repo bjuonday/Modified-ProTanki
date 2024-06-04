@@ -52,9 +52,9 @@ Unfortunately I don't know any further information on how to install it nor usin
 ✅ Created<br>
 🚧 Will implement in future<br>
 
-- New loading screen
-- Supply icons
-- Sum of these up...
+- ❌🚧 New loading screen
+- ❌🚧 Center supply icons
+- ❌🚧 Sum of these up...
 <hr>
 <h1>Credits</h1>
 <ul>
