@@ -66,7 +66,3 @@ Unfortunately I don't know any further information on how to install it nor usin
     <ul>for resources (supply icons, 'shop' button icon, etc.)</ul>
     </li>
 </ul>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; right: 0; height: 100vh; object-fit: none; background-size: contain; width: 130vw; opacity: 0.5; background: purple;]{x0000}$}
-```
