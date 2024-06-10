@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="45%" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/25bb5654-adf2-4ddd-992f-d688fc69df70"><br>
+    <img width="45%" src="https://raw.githubusercontent.com/bjuonday/Modified-ProTanki/main/assets/268728477-25bb5654-adf2-4ddd-992f-d688fc69df70.png"><br>
   <i align="center">Especially gotten from <a title="This repository was deleted." href="https://github.com/Kleins0/protanki-mod">this repository</a> and remodified it.</i>
 </p><br>
 
@@ -35,7 +35,7 @@ Unfortunately I don't know any further information on how to install it nor usin
 <h1>What does it change?</h1>
 
 <p align="center" width="100%">
-    <img width="65%" src="https://github.com/bjuonday/Modified-ProTanki/assets/113231787/ebd62a10-5677-4660-b91e-caeaeb021e69)](https://github.com/bjuonday/Modified-ProTanki/assets/113231787/ebd62a10-5677-4660-b91e-caeaeb021e69"><br>
+    <img width="65%" src="https://raw.githubusercontent.com/bjuonday/Modified-ProTanki/main/assets/269001058-ebd62a10-5677-4660-b91e-caeaeb021e69.png"><br>
   <i>Customized prelauncher</i>
 </p>
 
